@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, que tal ?? 👋
  
 <h1 align="center">Hola, soy <a href="https://github.com/25marzo">Natividad ► NCB</a> 👋</h1>
  <table align="left" border="0" cellpadding="20" width="500" >
